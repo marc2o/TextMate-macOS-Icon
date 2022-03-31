@@ -2,9 +2,9 @@
 
 # Alternate Icon for TextMate
 
-You can find [TextMate hier on GitHub](https://github.com/textmate/textmate).
+You can find [TextMate here on GitHub](https://github.com/textmate/textmate).
 
-The Figma source file is included.
+Made with [Figma](https://www.figma.com) (source file is included).
 
 Create the .icns file from the iconset folder on macOS using the terminal:
 
